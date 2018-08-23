@@ -1,0 +1,2 @@
+# titanic_competition_MLP
+在kaggle上的MLP練習
